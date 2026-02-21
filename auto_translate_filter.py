@@ -1,7 +1,7 @@
 """
 title: OpenWebUI Auto Translate
 author: Edik Simonian
-author_url: https://github.com/open-webui
+author_url: https://github.com/EdikSimonian/OpenWebui-Auto-Tranlate-Function
 version: 1.0.0
 description: Auto-detects non-English user input, translates it to English for the LLM, then translates the response back to the user's original language. Uses Google Translate (free, no API key) with MyMemory as fallback.
 required_open_webui_version: 0.4.0
